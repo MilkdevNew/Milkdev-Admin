@@ -4,8 +4,8 @@
     "$className": "DataModel",
 
     "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
+      "Milkdev": {
+        "$path": "src/Admin"
       }
     }
   }
